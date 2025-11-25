@@ -33,5 +33,68 @@ html {
   width: 100%;
   height: 400px;
   object-fit: cover;
+  border-radius: 8px;
 }
 
+
+h1 {
+  text-align: left;
+  font-size: .6em;
+  font-family:"Zalando Sans Expanded", sans-serif;
+  text-transform: uppercase;
+  background-color: #144031;
+  color: rgb(237, 233, 229);
+   padding:.8rem
+}
+
+.item-1 h2 { 
+  color: #48b858;
+  font-size: 1.5rem;
+  font-family:"Zalando Sans Expanded", sans-serif;
+  margin-bottom: 15px;
+}
+
+.item-4 h2 { 
+  color:#48b858;
+  font-size: 1.5rem;
+  font-family:  "Zalando Sans Expanded", sans-serif;
+  margin-bottom: 15px;
+}
+
+.item-5 h2 { 
+  color:#48b858;
+  font-size: 1.5rem;
+  font-family: "Zalando Sans Expanded", sans-serif;
+  margin-bottom: 15px;
+}
+
+.item-1 p {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #042e12;
+  font-family:"Google Sans Code", monospace;
+  margin-bottom: 15px;
+}
+
+.item-4 p {
+  font-size: 0.8rem;
+  line-height: 1.5;
+    color: #042e12;
+      font-family:"Google Sans Code", monospace;
+  margin-bottom: 15px;
+}
+
+.item-5 p {
+  font-size: 0.8rem;
+  line-height: 1.5;
+    color: #042e12;
+      font-family:"Google Sans Code", monospace;
+  margin-bottom: 15px;
+}
+
+.grid-container a {
+  text-decoration: none;
+  color:#144031;
+  font-size: .6rem;
+  font-family: "Google Sans Code", monospace; 
+}
